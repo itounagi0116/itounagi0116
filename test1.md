@@ -16,6 +16,8 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 
 [![Misskey @itounagi0116](https://img.shields.io/badge/Misskey-181717?style=flat&logo=misskey&logoColor=white)](https://misskey.niri.la/@itounagi0116)
 
+[![Vivaldi Social @itounagi0116](https://img.shields.io/badge/Vivaldi_Social-EF3939?style=flat&logo=vivaldi&logoColor=white)](https://social.vivaldi.net/@itounagi0116)
+
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](http://qiita.com/itounagi0116)
 
 [![Zenn Articles](https://img.shields.io/badge/Zenn-Profile-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/itounagi0116)

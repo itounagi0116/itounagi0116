@@ -24,6 +24,8 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 
 [![Discord](https://img.shields.io/discord/597133335243784192.svg?color=7289DA&logo=discord&logoColor=fff)](https://discord.gg/dCYtshJYvs)  
 
+[![VRChat @itounagi0116](https://img.shields.io/badge/VRChat-1E1E1E?style=flat&logo=vrchat&logoColor=white)](https://vrchat.com/home/user/usr_3659faa0-a4af-48b2-a94c-23fad263e586)
+
 ---
 
 ### 📚 My Profiles

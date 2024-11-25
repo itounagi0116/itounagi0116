@@ -18,6 +18,8 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 
 [![Vivaldi Social @itounagi0116](https://img.shields.io/badge/Vivaldi_Social-EF3939?style=flat&logo=vivaldi&logoColor=white)](https://social.vivaldi.net/@itounagi0116)
 
+[![Bluesky @nagimizune](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcyLjAzMSAyLjcwNDhDMzcuNzM1IDYuMzA5NyAwLjU1NTI1IDI2LjAxOTMgMC4wMzkzODg2IDI4LjA3NDVDLTAuNDc1NzYgMzAuMTQyMyA0LjUzMjk2IDYyLjA0MzkgNDAuOTg4NSA5MS40MDI4QzEwNi40ODkgMTI1LjUwOSA4My44ODQxIDExOC41MyA4Mi44MTUyIDExNy45NDhDNS4xNzgyNiA2Ni4yMDA2IDEuMTg5NjQgMzQuNDk4MSAxLjcyMjM3IDI5Ljg2MTlDMi4yNTQ2OSAyNS4yMjUgMzguMzIzOCA3LjA4MzQxIDcyLjAzMSAyLjcwNDhaIiBmaWxsPSIjMTRBNEFBIi8+PC9zdmc+&logoColor=white)](https://bsky.app/profile/nagimizune.bsky.social)
+
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](http://qiita.com/itounagi0116)
 
 [![Zenn Articles](https://img.shields.io/badge/Zenn-Profile-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/itounagi0116)

@@ -14,7 +14,7 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 ### 🌐 Connect with Me
 [![Twitter @itounagi0116](https://img.shields.io/twitter/follow/itounagi0116?label=Twitter&logo=twitter&style=flat)](https://twitter.com/itounagi0116)  
 [![Discord](https://img.shields.io/discord/597133335243784192.svg?color=7289DA&logo=discord&logoColor=fff)](https://discord.gg/dCYtshJYvs)  
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/itounagi0116/posts.svg)](http://qiita.com/itounagi0116)  
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](http://qiita.com/itounagi0116)  
 [![Zenn Articles](https://img.shields.io/badge/Zenn-Profile-blue?style=flat&logo=zenn)](https://zenn.dev/itounagi0116)
 
 ---

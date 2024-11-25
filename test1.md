@@ -5,9 +5,9 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itounagi0116)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itounagi0116)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=itounagi0116)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itounagi0116)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itounagi0116)](https://github.com/anuraghazra/github-readme-stats)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=itounagi0116)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
@@ -15,17 +15,21 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 [![Twitter @itounagi0116](https://img.shields.io/twitter/follow/itounagi0116?label=Twitter&logo=twitter&style=flat)](https://twitter.com/itounagi0116)  
 [![Discord](https://img.shields.io/discord/597133335243784192.svg?color=7289DA&logo=discord&logoColor=fff)](https://discord.gg/dCYtshJYvs)  
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/itounagi0116/posts.svg)](http://qiita.com/itounagi0116)  
+[![Zenn Articles](https://img.shields.io/badge/Zenn-Profile-blue?style=flat&logo=zenn)](https://zenn.dev/itounagi0116)
 
 ---
 
 ### 📚 My Profiles
-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-18111326-orange?style=flat)](https://stackoverflow.com/users/18111326/%e6%b0%b4%e9%9f%b3%e5%87%aa)
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-18111326-orange?style=flat)](https://stackoverflow.com/users/18111326/%e6%b0%b4%e9%9f%b3%e5%87%aa)  
+- [![Japanese Stack Overflow](https://img.shields.io/badge/Japanese%20Stack%20Overflow-63998-brightgreen?style=flat)](https://ja.stackoverflow.com/users/63998/%e6%b0%b4%e9%9f%b3%e5%87%aa)  
 - [![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-24145687-blue?style=flat)](https://stackexchange.com/users/24145687/%e6%b0%b4%e9%9f%b3%e5%87%aa)
 
 ---
 
-### ⏰ Timezone
-[![TimeZone Japan Standard Time](https://img.shields.io/badge/TimeZone-Japan%20Standard%20Time-ccc)](https://time.is/JST)
+### 🛠️ Tech Stack
+- **Languages**: C#, JavaScript, Python
+- **Frameworks**: Unity
+- **Tools**: Git, VSCode
 
 ---
 
@@ -36,11 +40,11 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itounagi0116&theme=tokyonight)](https://git.io/streak-stats)
+### ⏰ Timezone
+[![TimeZone Japan Standard Time](https://img.shields.io/badge/TimeZone-Japan%20Standard%20Time-ccc)](https://time.is/JST)
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages**: C#, JavaScript, Python
-- **Frameworks**: Unity, React
-- **Tools**: Git, Docker, Figma
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itounagi0116&theme=tokyonight)](https://git.io/streak-stats)
+
+---

@@ -43,13 +43,6 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 
 ---
 
-### 🚀 About Me
-- 💻 Specialties: Unity, Game Development, and Web Development.
-- 🌱 Currently Learning: AI-based game mechanics.
-- 🎮 Recent Projects: [My Unity Game Project](#)
-
----
-
 ### ⏰ Timezone
 [![TimeZone Japan Standard Time](https://img.shields.io/badge/TimeZone-Japan%20Standard%20Time-ccc)](https://time.is/JST)
 

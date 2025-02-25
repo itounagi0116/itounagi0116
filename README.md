@@ -47,7 +47,3 @@ Hi, I'm **水音凪**! I'm passionate about coding, game development, and sharin
 [![TimeZone Japan Standard Time](https://img.shields.io/badge/TimeZone-Japan%20Standard%20Time-ccc)](https://time.is/JST)
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itounagi0116&theme=tokyonight)](https://git.io/streak-stats)
-
----
